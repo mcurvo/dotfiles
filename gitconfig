@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = murilocurvo15@gmail.com
+	name = Murilo Curvo
